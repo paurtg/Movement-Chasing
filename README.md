@@ -1,4 +1,4 @@
-# Raycast Shooting
+# Character movement 3D and enemy chasing
 
 ## 1. Character movement
 
