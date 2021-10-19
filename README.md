@@ -2,7 +2,7 @@
 
 ## 1. Character movement
 
-In order to shoot, firstly we need to add movement to our character. Using the same project from the last tutorial, I will create a new script called Movement. We will need to add a ``public float speed`` so we are able to edit the object's speed in the inspector. In Update we need to write a ``transform.Translate`` statement indicating the ``Horizontal`` and ``Vertical`` axis. I multiplied it by deltaTime more than usual just to make it a bit faster but it is not needed. 
+Firstly we need to add movement to our character. Using the same project from the last tutorial, I will create a new script called Movement. We will need to add a ``public float speed`` so we are able to edit the object's speed in the inspector. In Update we need to write a ``transform.Translate`` statement indicating the ``Horizontal`` and ``Vertical`` axis. I multiplied it by deltaTime more than usual just to make it a bit faster but it is not needed. 
 
 It should look like this:
 
